@@ -1,0 +1,14 @@
+C:\Dev\C#\ENIGMACAMP\Enigpus\bin\Debug\net8.0\Enigpus.exe
+C:\Dev\C#\ENIGMACAMP\Enigpus\bin\Debug\net8.0\Enigpus.deps.json
+C:\Dev\C#\ENIGMACAMP\Enigpus\bin\Debug\net8.0\Enigpus.runtimeconfig.json
+C:\Dev\C#\ENIGMACAMP\Enigpus\bin\Debug\net8.0\Enigpus.dll
+C:\Dev\C#\ENIGMACAMP\Enigpus\bin\Debug\net8.0\Enigpus.pdb
+C:\Dev\C#\ENIGMACAMP\Enigpus\obj\Debug\net8.0\Enigpus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#\ENIGMACAMP\Enigpus\obj\Debug\net8.0\Enigpus.AssemblyInfoInputs.cache
+C:\Dev\C#\ENIGMACAMP\Enigpus\obj\Debug\net8.0\Enigpus.AssemblyInfo.cs
+C:\Dev\C#\ENIGMACAMP\Enigpus\obj\Debug\net8.0\Enigpus.csproj.CoreCompileInputs.cache
+C:\Dev\C#\ENIGMACAMP\Enigpus\obj\Debug\net8.0\Enigpus.dll
+C:\Dev\C#\ENIGMACAMP\Enigpus\obj\Debug\net8.0\refint\Enigpus.dll
+C:\Dev\C#\ENIGMACAMP\Enigpus\obj\Debug\net8.0\Enigpus.pdb
+C:\Dev\C#\ENIGMACAMP\Enigpus\obj\Debug\net8.0\Enigpus.genruntimeconfig.cache
+C:\Dev\C#\ENIGMACAMP\Enigpus\obj\Debug\net8.0\ref\Enigpus.dll
