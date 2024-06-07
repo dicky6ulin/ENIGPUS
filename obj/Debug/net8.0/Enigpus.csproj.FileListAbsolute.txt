@@ -12,3 +12,4 @@ C:\Dev\C#\ENIGMACAMP\Enigpus\obj\Debug\net8.0\refint\Enigpus.dll
 C:\Dev\C#\ENIGMACAMP\Enigpus\obj\Debug\net8.0\Enigpus.pdb
 C:\Dev\C#\ENIGMACAMP\Enigpus\obj\Debug\net8.0\Enigpus.genruntimeconfig.cache
 C:\Dev\C#\ENIGMACAMP\Enigpus\obj\Debug\net8.0\ref\Enigpus.dll
+C:\Dev\C#\ENIGMACAMP\Enigpus\obj\Debug\net8.0\Enigpus.sourcelink.json
